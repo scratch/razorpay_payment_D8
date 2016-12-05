@@ -1,0 +1,5 @@
+razorpay_payment.razorpay_profile.add:
+  route_name: razorpay_payment.razorpay_profile.add
+  title: 'Add Razorpay profile'
+  appears_on:
+    - entity.razorpay_profile.collection

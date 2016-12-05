@@ -1,0 +1,15 @@
+razorpay_payment.admin:
+  title: Razorpay Payment
+  description: Configure Razorpay to be used with Payment.
+  parent: payment.admin
+  route_name: razorpay_payment.admin
+entity.razorpay_profile.collection:
+  title: Razorpay profiles
+  description: Configure the different Razorpay profiles for your website.
+  parent: razorpay_payment.admin
+  route_name: entity.razorpay_profile.collection
+razorpay_payment.test:
+  title: Test connection
+  description: Test the connection for a Razorpay profile.
+  parent: razorpay_payment.admin
+  route_name: razorpay_payment.test

@@ -1,0 +1,4 @@
+administer razorpay payment:
+  title: 'Administer Razorpay Payment'
+  description: 'Perform adminstrative tasks for Razorpay Payment.'
+  restrict access: TRUE

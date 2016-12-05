@@ -1,0 +1,12 @@
+name: 'Razorpay Payment'
+type: module
+description: 'Provides Razorpay integration for the Payment platform'
+license: "GPL-2.0+"
+package: Payment
+version: ~8.2
+core: 8.x
+
+# Dependencies
+dependencies:
+  - composer_manager
+  - payment

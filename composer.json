@@ -1,0 +1,22 @@
+{
+
+  "name": "drupal/razorpay_payment",
+  "require": {
+    "razorpay/razorpay-php": "1.2.x"
+  }
+
+  "authors:" [
+    {
+      "name": "Krishnan. N (krishnan.n)",
+      "homepage": "https://gai.co.in
+      "role": "Developer"
+    }
+
+    {
+      "name": "TBD (TBD"),
+      "homepage": "https://gai.co.in
+      "role": "Maintainer"
+    }
+  ]
+
+}
