@@ -1,0 +1,7 @@
+paypalpage.paypalpage:
+  path: /paypalpage
+  defaults:
+    _controller: '\Drupal\paypalpage\Controller\paypalpageController::paypalPage'
+    _title: 'Paypal content page'
+  requirements:
+    _permission: 'access content'

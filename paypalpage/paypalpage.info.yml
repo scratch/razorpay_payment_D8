@@ -1,0 +1,9 @@
+name: Paypal Page
+type: module
+description: Display page with blocks containing paypal content types
+core: 8.x
+version: VERSION
+package: zcustom
+dependencies:
+  - payment
+  - paypal_payment
